@@ -7,3 +7,4 @@ function increment() {
 }
 
 
+// how you use js to modify a website

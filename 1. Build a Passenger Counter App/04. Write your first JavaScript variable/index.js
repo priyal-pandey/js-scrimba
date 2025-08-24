@@ -5,6 +5,10 @@ let count = 0
 console.log(count)
 
 
+
 // 1. Create a variable, myAge, and set its value to your age
+//console.log(myAge) reference error
+let myAge = 20
 
 // 2. Log the myAge variable to the console
+console.log(myAge)
