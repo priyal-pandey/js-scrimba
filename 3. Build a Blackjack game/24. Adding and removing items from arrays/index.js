@@ -12,5 +12,10 @@ let messages = [
 
 let newMessage = "Same here!"
 
+messages.push(newMessage)
 
+console.log(messages)
 
+messages.pop() //remove last item
+
+console.log(messages)

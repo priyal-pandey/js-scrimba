@@ -63,3 +63,13 @@ function newCard() {
         renderGame()        
     }
 }
+
+//recap
+//arrays - push, pop
+//objects - key val pairs
+// boolean - states
+// if else statements
+// comparision operators & logical operators
+//for loops
+//Math object - random, floor
+// return statements
