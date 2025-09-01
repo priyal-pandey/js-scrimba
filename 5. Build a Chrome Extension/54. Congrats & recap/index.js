@@ -45,3 +45,14 @@ inputBtn.addEventListener("click", function() {
     localStorage.setItem("myLeads", JSON.stringify(myLeads) )
     render(myLeads)
 })
+
+//recap
+//const
+//addEventListener
+//innerHTML
+//input.value
+//function parameters
+//template strings
+//localStorage
+//JSON object - stringify, parse
+//objects in arrays

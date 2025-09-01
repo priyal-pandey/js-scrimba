@@ -26,3 +26,4 @@ if (currentViewers) {
     // do something , e.g. notify the live streamers
     console.log("we have viewers")
 }
+
