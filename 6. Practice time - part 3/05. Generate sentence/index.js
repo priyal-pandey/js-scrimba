@@ -9,5 +9,13 @@
 
 // Use both a for loop and a template string to solve the challenge
 function generateSentence(desc, arr) {
-    
+    let baseStr = `The ${arr.length} ${desc} are `
+    for(let i = 0; i < arr.length-1; i++){
+        baseStr += `${arr[i]}, `
+    }
+    baseStr += `${arr[arr.length-1]}`
+    return baseStr
 }
+
+const sentence = generateSentence("largest mountains",["Everest", "K2"])
+console.log(sentence)
